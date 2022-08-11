@@ -1,1 +1,5 @@
 # Keep track of your hosts here.
+# Default Start
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+# Default End
